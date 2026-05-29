@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvender",
+        "uuid": 31320474,
+        "checksum": "5hnip8k"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
